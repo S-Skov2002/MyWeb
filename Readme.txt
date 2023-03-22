@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This item has been downloaded from the Bootstrap.Build - https://bootstrap.build/
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Sponsored by Designmodo - https://designmodo.com/ (Free Bootstrap Builder, theme and templates.)
+
+We'll be happy if you will mention https://bootstrap.build/ into your projects!
